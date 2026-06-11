@@ -3,15 +3,22 @@
 		<td colspan="1">
 			<h3 align="center">
 				<picture>
-<<<<<<< HEAD
+					<
+					<
+					<
+					<
+					<
+					<
+					<
+					HEAD
 					<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.Cloud/Image/GitHub/NPM.svg" />
 					<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.Cloud/Image/GitHub/NPM.svg" />
 					<img width="28" alt="" src="https://PlayForm.Cloud/Image/GitHub/NPM.svg" />
-=======
+					=======
 					<source media="(prefers-color-scheme: dark)" srcset="https://editor.land/Image/GitHub/NPM.svg" />
 					<source media="(prefers-color-scheme: light)" srcset="https://editor.land/Image/GitHub/NPM.svg" />
 					<img width="28" alt="" src="https://editor.land/Image/GitHub/NPM.svg" />
->>>>>>> f8424df4c57d8b168d42f79c2ad7dda231186149
+					>>>>>>> f8424df4c57d8b168d42f79c2ad7dda231186149
 				</picture>
 			</h3>
 		</td>
